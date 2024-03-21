@@ -1,1 +1,1 @@
-# WordPress-Component-
+# WordPress-Component
